@@ -1,0 +1,20 @@
+.title {
+  backgound-color: black;
+  max-width: 600px;
+  text-align: center;
+}
+
+.flex-container {
+  diplay: flex;
+  flex-direction: row;
+}
+
+.ads {
+  text-align: right;
+}
+
+body {
+  background-image: url(https://tileable.co/products/v3/tileable_preview/Caviar_-_design_2/512.jpg);
+  background-color: #555555;
+}
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://ani.cursors-4u.net/cursors/cur-13/cur1150.ani), url(https://ani.cursors-4u.net/cursors/cur-13/cur1150.png), auto !important;} /* End https://www.cursors-4u.com */
